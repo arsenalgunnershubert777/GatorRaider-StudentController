@@ -69,5 +69,5 @@ In order to be run, the code from this src folder needs to replace the code in t
 ### Individual Contribution:
 My contributions included coming up with and implementing the endgame state, as well as the surround1 and surround2 nodal algorithm behaviors.
 
-### License
+## License:
 This project is licensed under the terms of the MIT license.
